@@ -1,3 +1,45 @@
+# F1tenth Racetracks repository:
+https://github.com/f1tenth/f1tenth_racetracks
+
+| Track Name | Method | Estimated Laptime (s) | Runtime (s) |
+| --- | --- | --- | --- |
+| Austin | Shortest Path | 50.93 | 41.90 |
+| Austin | MinCurv IQP | 42.46 | 355.08 |
+| Brands Hatch | Shortest Path | 37.00 | 34.41 |
+| Brands Hatch | MinCurv IQP | 31.98 | 148.62 |
+| Budapest | Shortest Path | 44.91 | 29.20 |
+| Budapest | MinCurv IQP | 38.71 | 388.80 |
+| Catalunya | Shortest Path | 45.91 | 30.36 |
+| Catalunya | MinCurv IQP | 39.70 | 225.55 |
+| IMS | Shortest Path | 24.06 | 14.50 |
+| IMS | MinCurv IQP | 24.17 | 43.22 |
+| Melbourne | Shortest Path | 51.79 | 47.50 |
+| Melbourne | MinCurv IQP | 43.04 | 265.45 |
+| Mexico City | Shortest Path | 42.48 | 15.39 |
+| Mexico City | MinCurv IQP | 35.02 | 70.05 |
+| Monza | Shortest Path | 43.50 | 29.27 |
+| Monza | MinCurv IQP | 38.37 | 177.71 |
+| Moscow Raceway | Shortest Path | 42.23 | 8.99 |
+| Moscow Raceway | MinCurv IQP | 34.30 | 145.75 |
+| Nuerburgring | Shortest Path | 48.47 | 29.03 |
+| Nuerburgring | MinCurv IQP | 43.24 | 224.55 |
+| Oschersleben | Shortest Path | 31.19 | 6.61 |
+| Oschersleben | MinCurv IQP | 26.17 | 58.69 |
+| Sakhir | Shortest Path | 48.75 | 22.16 |
+| Sakhir | MinCurv IQP | 42.89 | 280.07 |
+| Sao Paulo | Shortest Path | 38.57 | 17.47 |
+| Sao Paulo | MinCurv IQP | 33.55 | 130.73 |
+| Sepang | Shortest Path | 53.59 | 49.09 |
+| Sepang | MinCurv IQP | 46.60 | 249.87 |
+| Silverstone | Shortest Path | 49.79 | 48.02 |
+| Silverstone | MinCurv IQP | 42.65 | 226.90 |
+| Sochi | Shortest Path | 53.81 | 54.40 |
+| Sochi | MinCurv IQP | 43.41 | 152.63 |
+| Spielberg | Shortest Path | 35.74 | 22.55 |
+| Spielberg | MinCurv IQP | 31.68 | 62.07 |
+
+note: better parameters tuning can improve results and solving time
+
 # Introduction
 This repository contains algorithms that allow us to determine an optimal racing line on a race track. You can chose
 between several objectives:
