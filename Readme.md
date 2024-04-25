@@ -38,7 +38,7 @@ https://github.com/f1tenth/f1tenth_racetracks
 | Spielberg | Shortest Path | 35.74 | 22.55 |
 | Spielberg | MinCurv IQP | 31.68 | 62.07 |
 
-note: better parameters tuning can improve results and solving time
+note: better parameter tuning can improve results and solving time
 
 # Introduction
 This repository contains algorithms that allow us to determine an optimal racing line on a race track. You can chose
